@@ -14,6 +14,7 @@ double f2(double& x) {
 	x = f1(x);
 	return x;
 }
+
 int main() {
 	setlocale(LC_ALL, "rus");
 	double a, b, c;
