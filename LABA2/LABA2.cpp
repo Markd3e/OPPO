@@ -38,7 +38,6 @@ void F1(double*& mas, int& n)
 	for (int i = 0; i < l; i++)
 		cout << mas2[i] << " ";
 	cout << endl;
-
 }
 
 
