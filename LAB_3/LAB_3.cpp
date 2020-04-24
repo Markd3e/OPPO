@@ -7,27 +7,8 @@ struct LAA
     int value;
     LAA* next;
 };
-void viev(LAA* l)
+void F1(LAA* top,LAA* second,LAA* third,LAA* p, int n)
 {
-
-    while (l)
-    {
-        cout << l->value << " ";
-        l = l->next;
-
-    }
-}
-int main()
-{
-    setlocale(LC_ALL, "Russian");
-    srand(time(0));
-    LAA* top = NULL;//top указатель для начала,p для прохода по списку
-    LAA* second = NULL;
-    LAA* third = NULL;
-    LAA* p = NULL;
-    int n;
-    cout << "Введите количество элементов списка" << endl;
-    cin >> n;
     for (int i = 0; i < n; i++)
     {
         LAA* p = new LAA();
@@ -57,6 +38,19 @@ int main()
         cout << p->value << " ";
     }
     cout << "\n";
+}
+int main()
+{
+    setlocale(LC_ALL, "Russian");
+    srand(time(0));
+    LAA* top = NULL;//top указатель для начала,p для прохода по списку
+    LAA* second = NULL;
+    LAA* third = NULL;
+    LAA* p = NULL;
+    int n;
+    cout << "Введите количество элементов списка" << endl;
+    cin >> n;
+    F1(top, second, third, p, n);
     system("pause");
     return 0;
 }
