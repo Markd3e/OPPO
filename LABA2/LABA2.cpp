@@ -40,7 +40,6 @@ void F1(double*& mas, int& n)
 	cout << endl;
 }
 
-
 int main()
 {
 	setlocale(LC_ALL, "Russian");
