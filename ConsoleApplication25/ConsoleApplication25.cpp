@@ -42,11 +42,9 @@ void Output(TreeElement* el)
 {
 	if (el != NULL)
 	{
-		cout << "<";
 		Output(el->left);
 		cout << el->value << " ";
 		Output(el->right);
-		cout << ">";
 	}
 
 }
