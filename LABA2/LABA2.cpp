@@ -5,6 +5,7 @@ using namespace std;
 
 Если вы видите это!!
 
+
 void F1(double*& mas, int& n)
 {
 	int k = 0;
