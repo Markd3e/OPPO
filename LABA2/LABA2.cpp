@@ -3,7 +3,7 @@
 using namespace std;
 
 
-
+DEDEDEDEDED
 
 void F1(double*& mas, int& n)
 {
