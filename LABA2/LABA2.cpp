@@ -3,10 +3,7 @@
 using namespace std;
 
 
-DEDEDEDEDED
-DEADDEADDEADDEADDEADEADEAD
-sadasd1212123asda
-dfgdfgdfg
+ХЗ КАК ЛАБУ ЗАЩИЩАТТТТТТТТ
 
 
 void F1(double*& mas, int& n)
