@@ -4,6 +4,10 @@ using namespace std;
 
 
 DEDEDEDEDED
+DEADDEADDEADDEADDEADEADEAD
+
+
+
 
 void F1(double*& mas, int& n)
 {
