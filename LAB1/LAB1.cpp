@@ -3,8 +3,7 @@
 
 
 ываываыв
-
-
+ыаввыаыва
 
 #include <math.h>
 using namespace std;
