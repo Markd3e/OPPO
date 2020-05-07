@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 
 
-Привет
+Приветыы
 
 #include <math.h>
 using namespace std;
