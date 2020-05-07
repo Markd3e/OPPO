@@ -1,9 +1,7 @@
 ﻿#include <iostream>
 
 
-
-ываываыв
-ыаввыаыва
+Привет
 
 #include <math.h>
 using namespace std;
