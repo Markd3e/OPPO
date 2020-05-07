@@ -7,6 +7,8 @@ using namespace std;
 	фывффывфыв
 	
 
+фывфывфыв
+
 void F1(double*& mas, int& n)
 {
 	int k = 0;
