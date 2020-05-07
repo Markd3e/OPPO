@@ -1,9 +1,6 @@
 ﻿#include <iostream>
 #include <math.h>
 using namespace std;
-
-
-ыапвыпыппроп
 double f1(double n)
 {
 	double g = 0;
