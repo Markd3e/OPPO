@@ -3,11 +3,7 @@
 using namespace std;
 
 
-Если вы видите это!!
-	фывффывфыв
-	
 
-фывфывфыв
 
 void F1(double*& mas, int& n)
 {
