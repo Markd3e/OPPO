@@ -1,11 +1,6 @@
 ﻿#include <iostream>
 #include <time.h>
 using namespace std;
-
-
-ХЗ КАК ЛАБУ ЗАЩИЩАТТТТТТТТ
-
-
 void F1(double*& mas, int& n)
 {
 	int k = 0;
