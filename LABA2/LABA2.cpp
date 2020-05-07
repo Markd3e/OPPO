@@ -6,7 +6,7 @@ using namespace std;
 DEDEDEDEDED
 DEADDEADDEADDEADDEADEADEAD
 sadasd1212123asda
-
+dfgdfgdfg
 
 
 void F1(double*& mas, int& n)
