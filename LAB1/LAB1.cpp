@@ -1,8 +1,4 @@
 ﻿#include <iostream>
-
-
-Приветыы
-
 #include <math.h>
 using namespace std;
 double f1(double n)
