@@ -4,6 +4,7 @@ using namespace std;
 
 
 Если вы видите это!!
+	фывффывфыв
 
 void F1(double*& mas, int& n)
 {
